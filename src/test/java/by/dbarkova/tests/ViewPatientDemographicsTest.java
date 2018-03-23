@@ -14,9 +14,9 @@ public class ViewPatientDemographicsTest {
 	
 	private Steps steps;
 	private NavigationSteps navigation;
-	private static final String COMPANY_CODE = "DEMO01";
-	private static final String LOGIN = "bdw89@mail.ru";
-	private static final String PASSWORD = "P@ssw0rd";
+	private static final String COMPANY_CODE = "";
+	private static final String LOGIN = "";
+	private static final String PASSWORD = "";
 
 	@BeforeMethod
 	public void setUp() {
