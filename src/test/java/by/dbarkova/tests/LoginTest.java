@@ -11,9 +11,9 @@ import org.testng.annotations.AfterMethod;
 public class LoginTest {
 
 	private Steps steps;
-	private static final String COMPANY_CODE = "DEMO01";
-	private static final String LOGIN = "bdw89@mail.ru";
-	private static final String PASSWORD = "P@ssw0rd";
+	private static final String COMPANY_CODE = "";
+	private static final String LOGIN = "";
+	private static final String PASSWORD = "";
 	private static final String USER_NAME = "Lorraine Ashley";
 
 	@BeforeMethod(description = "Init browser")
