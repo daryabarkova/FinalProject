@@ -16,9 +16,9 @@ public class AddPatientCareTeamMemberTest {
 	private Steps steps;
 	private NavigationSteps navigation;
 	private CareTeamMember careTeamMember;
-	private static final String COMPANY_CODE = "DEMO01";
-	private static final String LOGIN = "bdw89@mail.ru";
-	private static final String PASSWORD = "P@ssw0rd";
+	private static final String COMPANY_CODE = "";
+	private static final String LOGIN = "";
+	private static final String PASSWORD = "";
 	private static final String PATIENT_CARE_TEAM_MEMBER_NAME = "Patrick Edwards";
 	private static final String PATIENT_CARE_TEAM_MEMBER_ROLE = "Case Manager";
 	private static final String PATIENT_CARE_TEAM_MEMBER_ORGANIZATION = "Demonstration";
